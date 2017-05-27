@@ -1,4 +1,5 @@
 # FreeCodeCamp
 Keeps my freecodecamp.com projects
 
-Portfolio project page hosted at https://dgmarran.github.io/
+Portfolio project repository: https://github.com/dgmarran/dgmarran.github.io
+Portfolio hosted on Github pages at https://dgmarran.github.io/
